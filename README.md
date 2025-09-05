@@ -1,0 +1,2 @@
+Os códigos presente neste repositório são apenas para propósitos de demonstração, todos os créditos são direcionados ao autor do livro.
+Este repositório foi feito para mostrar alguns dos conceitos estudados no livro Clean Code(Código limpo) de Robert Cecil Martin, a maior parte dos códigos escritos estão comentados(/*) por serem apenas amostras de códigos maiores, então não são capazes de rodar, mas demonstram de forma clara quais são as ideias que o autor queria passar.
